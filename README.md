@@ -31,4 +31,4 @@
 
 
 
-![snake animation](https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg)
+
