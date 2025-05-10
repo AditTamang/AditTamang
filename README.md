@@ -14,11 +14,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adit-tamang-78650b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adit-tamang-78650b208/" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditTamang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AditTamang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/AditTamang/AditTamang/output/snake.svg" alt="Snake animation" />
@@ -33,3 +28,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adittamang&show_icons=true&locale=en" alt="adittamang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adittamang&" alt="adittamang" /></p>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AditTamang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AditTamang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AditTamang/AditTamang/output/snake.svg" alt="Snake animation" />
+
+###
