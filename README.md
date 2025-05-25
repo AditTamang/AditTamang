@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Apps** with **Java, Spring Boot, React, Node.js**
-- 🌱 I’m learning **DevOps (Docker, Kubernetes)** and **Cloud Services (AWS)**
+- 🔭 I’m currently working on **Full Stack Web Apps** with **Java, React, Node.js**
+- 🌱 I’m learning **Cloud Services (AWS)**
 - 🤝 I’m open to collaboration on **innovative projects and internships**
 - 💬 Ask me about **Java, React, APIs, System Design, or MVC Architecture**
 - 📫 How to reach me: **tamangadit86@gmail.com**
