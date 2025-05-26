@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me *tamangadit86@gmail*
+- 📫 How to reach me *tamangadit86@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adit-tamang-78650b208/" target="blank"><img align="center" src="adit Profile" alt="https://www.linkedin.com/in/adit-tamang-78650b208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adit-tamang-78650b208/" target="blank"><img align="center" src="adit Profile" alt="[https://www.linkedin.com/in/adit-tamang-78650b208/](https://media.licdn.com/dms/image/v2/D5603AQFbKvN7QRBH-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720320144988?e=2147483647&v=beta&t=DLubNMt6HUxXZuAI_mVL2LLik48aDJuerN8EL_0sqLU)" height="30" width="40" /></a>
 </p>
 
 
