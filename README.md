@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=SUJAN%20SUBEDI&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=Adit%20Tamang&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sujan-subedi-32882720a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Adit-Tamang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tamangadit86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rohit00112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Rohit00112&style=for-the-badge&color=6366F1" alt="Profile Views" />
@@ -118,7 +118,7 @@ I'm a passionate **Full Stack Developer** with experience in both web and mobile
 ## 🔗 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sujan-subedi-32882720a/">
+  <a href="https://www.linkedin.com/in/Adit-Tamang-32882720a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tamangadit86@gmail.com">
