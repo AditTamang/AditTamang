@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Adit-Tamang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adit-tamang-78650b208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tamangadit86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AditTamang"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=AditTamang&style=for-the-badge&color=6366F1" alt="Profile Views" />
@@ -60,7 +60,7 @@
 ## 🔗 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Adit-Tamang-32882720a/">
+  <a href="https://www.linkedin.com/in/adit-tamang-78650b208/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tamangadit86@gmail.com">
