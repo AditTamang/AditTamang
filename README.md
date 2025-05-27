@@ -3,10 +3,15 @@
 </div>
 
 <div align="center">
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Software Developer GIF" width="300" />
+  </p>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Web+Development;UI%2FUX+Design;Problem+Solving;Creative+Solutions" alt="Typing SVG" />
   </a>
 </div>
+
 
 
 <div align="center">
