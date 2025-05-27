@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Web+Development;Mobile+App+Development;UI%2FUX+Design;Problem+Solving;Creative+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Web+Development;UI%2FUX+Design;Problem+Solving;Creative+Solutions" alt="Typing SVG" />
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Adit-Tamang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
